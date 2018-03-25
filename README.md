@@ -42,7 +42,7 @@ output:
 
 <br>
 
-<h4 class=pfblock-header3> Thursday, 4/5/2018 </h4>
+<h4 class=pfblock-header3> Thursday, 4/26/2018 </h4>
 <h4 class=pfblock-header3> 11:00am-12:20pm </h4>
 <h4 class=pfblock-header3> Kent 120 </h4>
 

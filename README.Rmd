@@ -10,7 +10,7 @@ output:
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 library(stringr)
 
-date <- "4/5/2018"
+date <- "4/26/2018"
 vendor <- "TBD"
 title <- "TBD"
 file_title <- "TBD"
