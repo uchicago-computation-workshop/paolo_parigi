@@ -29,7 +29,7 @@ output:
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href="https://github.com/uchicago-computation-workshop/paolo_parigi/blob/master/2018__parigi__tbd_na_na.pdf" >TBD</a>
+  <a href="https://github.com/uchicago-computation-workshop/paolo_parigi/blob/master/2018__parigi__online_field_experiments.pdf" >Online Field Experiments: Studying Social Interactions in Context</a>
 </h2>
 
 <br>
@@ -37,7 +37,10 @@ output:
 
 <p class=footertext2>
 
-**Abstract:** TBD
+**Abstract:** Thanks to the Internet and the related availability of "Big Data," social interactions and their environmental context can now be studied experimentally. In this article, we discuss a methodology that we term the online field experiment to differentiate it from more traditional lab-based experimental designs. We explain how this experimental method can be used to capture theoretically relevant environmental conditions while also maximizing the researcher’s control over the treatment(s) of interest. We argue that this methodology is particularly well suited for social psychology because of its focus on social interactions and the factors that
+influence the nature and structure of these interactions. We provide one detailed example of an online field experiment used to investigate the impact of the sharing economy on trust behavior. We argue that we are fundamentally living in a new social world in which the Internet mediates a growing number of our social interactions. These highly prevalent forms of social interaction create opportunities for the development of new research designs that allow us to advance our theories of social interaction and social structure with new data sources.
+
+Besided the above paper, the presented talk will also draw upon research from an addition publication in PNAS: ["Reputation Offsets Trust Judgments Based on Social Biases among Airbnb Users"](https://github.com/uchicago-computation-workshop/paolo_parigi/blob/master/2018__parigi__pnas.pdf).
 </p>
 
 <br>
@@ -51,11 +54,6 @@ output:
 <p class=pfblock-header3>A light lunch will be provided by TBD.</p>
 
 <br><br>
-
-<p class=footertext2>
-
-**Paolo Parigi** TBD
-</p>
 
 
 
