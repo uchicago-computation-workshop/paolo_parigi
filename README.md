@@ -41,6 +41,7 @@ output:
 influence the nature and structure of these interactions. We provide one detailed example of an online field experiment used to investigate the impact of the sharing economy on trust behavior. We argue that we are fundamentally living in a new social world in which the Internet mediates a growing number of our social interactions. These highly prevalent forms of social interaction create opportunities for the development of new research designs that allow us to advance our theories of social interaction and social structure with new data sources.
 
 Besided the above paper, the presented talk will also draw upon research from an addition publication in PNAS: ["Reputation Offsets Trust Judgments Based on Social Biases among Airbnb Users"](https://github.com/uchicago-computation-workshop/paolo_parigi/blob/master/2018__parigi__pnas.pdf).
+
 </p>
 
 <br>
